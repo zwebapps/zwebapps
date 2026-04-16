@@ -6,8 +6,83 @@ zwebapps/zwebapps is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 💫 About Me:
-ZAHOOR AHMED<br>FULL STACK DEVELOPER<br>+491623363430 | zahoor_ahmed143@hotmail.com | https://www.linkedin.com/in/zahoor-ahmed-3414a79b/<br>Koblenzer Str. 103, 56218, Mülheim-Kärlich<br>Senior Frontend / Full Stack Software Engineer (Angular / TypeScript) with 7+ years of experience in Agile<br>Scrum environments. Expertise in Angular, TypeScript, HTML5, CSS/SASS, and RxJS, with a strong focus<br>on frontend architecture, clean code, unit testing, and performance optimization.<br>Experienced in translating user stories into scalable UI solutions, working with PostgreSQL, and<br>collaborating with product management, QA, and cross-functional teams to deliver secure and high-quality<br>applications.<br>Technical Skills<br>Languages: JavaScript (ES6+), TypeScript, Java (J2EE), PHP<br>Frontend: Angular (v19+), TypeScript, JavaScript (ES6+), HTML5, CSS3, SASS, RxJS, NgRx<br>Backend: Node.js, Nest.js, Java (Spring Boot, Hibernate)<br>Databases: PostgreSQL, MySQL, MongoDB, Redis<br>Architecture: Architecture Optimization, Design Patterns, Reactive Programming, Defensive Programming<br>DevOps & Cloud: Docker, Docker Compose, Kubernetes, AWS<br>Version Control & CI/CD: Git, GitLab, Bitbucket, CI/CD Pipelines<br>Testing: Jest, Mocha, Playwright, Unit Testing, TDD<br>Tools & Collaboration: Jira, Confluence, Git, GitLab CI/CD, Agile Scrum<br>AI & PRODUCTIVITY TOOLS: Chatgpt, Gemini, Claude Ai, Cursor Ai, Prompt Engineering<br>EXPERIENCE<br>June 2025 - Present<br>Senior Software Engineer | PTC Telematik GmbH | Coblenz, Rhineland-Palatinate<br>• Designed and implemented new frontend components using Angular 19 and TypeScript in an Agile<br>Scrum team<br>• Translated user stories into scalable code, templates, and style sheets (HTML5, SASS)<br>• Applied reactive programming (RxJS) and modern frontend architecture principles<br>• Ensured code quality through unit testing and defensive programming techniques<br>• Actively contributed to frontend architecture optimization and refactoring initiatives<br>• Tracked development progress and requirements using Jira and Confluence<br>• Collaborated closely with product management and QA teams in a cross-functional environment<br>• Integrated backend services (Nest.js) with PostgreSQL databases<br>SEP 2024 – MAR 2025<br>Software Engineer | Digital Result GmbH | Munich, Bavaria-Württemberg<br>• Developed responsive frontend features using React with TypeScript and modern frameworks<br>• Built scalable applications using AWS and serverless architecture<br>• Designed and optimized PostgreSQL database queries<br>• Implemented automated end-to-end and unit testing using Playwright<br>DEC 2022 – AUG 2024<br>Full Stack Engineer | Retromotion GmbH | Stuttgart, Baden-Württemberg<br>• Designed and developed scalable microservices-based e-commerce architecture using TypeScript<br>and modern web technologies, improving system modularity and performance<br>• Built and optimized frontend components and UI modules, enhancing usability and application<br>responsiveness<br>• Integrated third-party APIs (Amazon Seller, DHL, TecDoc) and implemented automation using cron<br>jobs for order synchronization<br>• Developed real-time WebSocket-based dashboards with advanced data visualization and import/export<br>features<br>• Implemented high-performance search and analytics solutions using CouchDB and Elasticsearch<br>• Designed and optimized data models and queries in PostgreSQL and CouchDB<br>• Deployed containerized applications on AWS (ECS, S3) and implemented secure authentication using<br>OAuth 2.0<br>• Contributed to Agile Scrum processes, collaborating with cross-functional teams to deliver scalable and<br>secure production systems<br>OCT 2019 – OCT 2022<br>Software Engineer | TPConnects Technologies | Dubai UAE<br>• Developed and maintained scalable web applications using Angular 18, TypeScript, HTML5, and<br>CSS within a microservices-based architecture<br>• Built reusable UI components and implemented state management using NgRx, improving application<br>performance and maintainability<br>• Translated business requirements and user stories into functional UI features, ensuring clean and<br>scalable code<br>• Implemented secure API communication using JWT authentication and HTTP interceptors<br>• Integrated payment gateways (Stripe, Easy Pay) to enable secure and efficient booking workflows<br>• Applied Test-Driven Development (TDD) and implemented unit and end-to-end testing (Playwright)<br>to improve code quality<br>• Built and maintained CI/CD pipelines, reducing deployment time and improving release reliability<br>• Contributed to frontend performance optimization and architecture improvements<br>• Collaborated in an Agile Scrum environment, working closely with product owners, QA teams, and<br>stakeholders while managing tasks in Jira<br>• Supported backend integrations using Java (Spring Boot, Hibernate) in airline booking systems<br>DEC 2022 – AUG 2024<br>Web Developer | Jinnah Software House | Jhelum Cantt, Pakistan<br>• Developed web applications using Angular, TypeScript, HTML5, and CSS, along with Node.js and PHP-<br>based backends<br>• Built modular UI components and contributed to responsive, cross-platform web solutions<br>• Translated requirements into functional features, following structured development and documentation<br>practices<br>• Integrated REST and SOAP APIs, working with JSON and XML for data exchange<br>• Implemented JWT-based authentication and authorization for secure applications<br>• Developed and maintained database integrations (XML/RSS ↔ Database services)<br>• Integrated payment gateways (Stripe) across multiple web platforms<br>• Contributed to hotel order management systems and activity feed applications<br>• Developed Android applications using Java as part of academic and internship projects<br>EDUCATION<br>JUN 2018<br>Bachelor in Software Engineering | 4 Years | VU of Pakistan<br>• Software Engineering<br>Bachelor of Computer Science | 2 Years | VU of Pakistan<br>• Computer Science<br>LANGUAGE<br>• English: B2 (Upper Intermediate)<br>• German: B1 (Intermediate)
+<h1 align="center">Zahoor Ahmed</h1>
+<p align="center">
+  <b>Senior Full Stack Developer · Angular · TypeScript · Node.js</b><br/>
+  <sub>+49 162 336 3430 · zahoor_ahmed143@hotmail.com · Mülheim-Kärlich, Germany</sub>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zahoor-ahmed-3414a79b/">LinkedIn</a> ·
+  <a href="mailto:zahoor_ahmed143@hotmail.com">Email</a>
+</p>
+
+---
+
+7+ years building scalable web applications in Agile environments. Specialising in **Angular (v19+)**, **TypeScript**, **RxJS**, and **Node.js**. Strong focus on frontend architecture, clean code, unit testing, and cross-functional collaboration.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+`Angular v19+` `TypeScript` `RxJS` `NgRx` `HTML5` `CSS3/SASS` `JavaScript ES6+` `React`
+
+**Backend & Databases**
+`Node.js` `Nest.js` `Java / Spring Boot` `PHP` `PostgreSQL` `MySQL` `MongoDB` `Redis` `Elasticsearch`
+
+**DevOps, Testing & Tools**
+`Docker` `Kubernetes` `AWS` `GitLab CI/CD` `Jest` `Playwright` `TDD` `Jira` `Agile Scrum`
+
+---
+
+## 💼 Experience
+
+### Senior Software Engineer — PTC Telematik GmbH, Coblenz _(Jun 2025 – Present)_
+- Designed and implemented Angular 19 frontend components in Agile Scrum team
+- Translated user stories into scalable templates and SASS stylesheets
+- Applied reactive programming (RxJS) and modern frontend architecture patterns
+- Integrated Nest.js backend services with PostgreSQL databases
+
+### Software Engineer — Digital Result GmbH, Munich _(Sep 2024 – Mar 2025)_
+- Built responsive features with React + TypeScript on AWS serverless architecture
+- Designed and optimised PostgreSQL queries for performance
+- Implemented automated E2E and unit testing using Playwright
+
+### Full Stack Engineer — Retromotion GmbH, Stuttgart _(Dec 2022 – Aug 2024)_
+- Designed scalable microservices e-commerce architecture with TypeScript
+- Integrated Amazon Seller, DHL, and TecDoc APIs with automated cron job sync
+- Built real-time WebSocket dashboards with CouchDB + Elasticsearch search
+- Deployed containerised services on AWS ECS/S3 with OAuth 2.0 authentication
+
+### Software Engineer — TPConnects Technologies, Dubai _(Oct 2019 – Oct 2022)_
+- Developed Angular 18 microservices apps with NgRx state management
+- Implemented JWT auth, HTTP interceptors, and Stripe / Easy Pay integrations
+- Built and maintained CI/CD pipelines reducing deployment time significantly
+- Supported Java Spring Boot backend in airline booking systems
+
+### Web Developer — Jinnah Software House, Pakistan _(2017 – 2019)_
+- Built Angular + Node.js / PHP apps with REST and SOAP API integrations
+- Implemented JWT-based authentication and Stripe payment gateway
+- Developed hotel order management and activity feed systems
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| BSc Software Engineering | Virtual University of Pakistan | 2018 |
+| BSc Computer Science | Virtual University of Pakistan | — |
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| English | C1 – Professional  Working Speaking |
+| German | B1 – Intermediate |
+
 
 
 ## 🌐 Socials:
